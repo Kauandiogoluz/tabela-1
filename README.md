@@ -43,9 +43,9 @@
 
   </tr>
   
-<td>09:50/td>
-<td>matematica/td>
-<td>geografia/td>
+<td>10:40/td>
+<td>cumpuiter/td>
+<td>artes/td>
 <td>l.inglesa/td>
 <td>compuiter/td>
 <td>fisica/td>

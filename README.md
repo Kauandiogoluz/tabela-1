@@ -41,13 +41,17 @@
 <td>compuiter/td>
 <td>fisica/td>
 
-</tr>
-<td>10:40/td>
-<td>ed.fisica/td>
-<td>historia/td>
-<td>l.inglesa/td>
+  </tr>
+  
+<td>09:50/td>
+<td>matematica/td>
 <td>geografia/td>
-<td>potugues/td>
-</table>
-
+<td>l.inglesa/td>
+<td>compuiter/td>
+<td>fisica/td>
+  
 </html>
+
+
+
+

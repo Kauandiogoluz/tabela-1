@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td> 07:10  /td>
+<td> 07:10  </td>
 <td>matematica/td>
 <td>ed.fisica/td>
 <td>portugues/td>
@@ -12,7 +12,7 @@
 </tr>
 
 <tr>
-<td>08:00/td>
+<td>08:00</td>
 <td>quimica/td>
 <td>projeto de vida/td>
 <td>ed.finamceiro/td>

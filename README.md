@@ -13,7 +13,7 @@
 
 <tr>
 <td> 08:00 </td>
-<td> quimica< /td>
+<td> quimica </td>
 <td> projeto de vida </td>
 <td> ed.finamceiro </td>
 <td> portugues </td>

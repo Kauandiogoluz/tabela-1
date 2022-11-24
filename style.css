@@ -1,12 +1,12 @@
 h1{
-   color: chartreuse;
+   color: rgb(238, 10, 169);
 }
 
 body{
-   background:blue;
+   background:rgb(12, 12, 245);
 }
 
 table tr td{
    border: 3px solid;
-   border-color: black;
+   border-color: rgb(243, 13, 13);
 }
